@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -70,3 +71,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 =======
 # movie-search
 >>>>>>> 106a71adb0f351abdc229078782a93ad23c048c6
+=======
+Movie Search
+>>>>>>> 62f96216cc100827d6059103338ee1613dfd4cb4

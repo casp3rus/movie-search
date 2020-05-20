@@ -1,1 +1,0 @@
-export const mdbAPIKey = '25c25fd03942b7a8759148fe799e2960'
