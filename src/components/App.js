@@ -1,0 +1,15 @@
+import React from 'react';
+import './App.css'
+
+import SearchMovies from './searchMovies'
+
+function App() {
+  return (
+    <div className='app'>
+      <h1 className='title'>Movie Search</h1>
+      <SearchMovies />
+    </div>
+  );
+}
+
+export default App;
